@@ -18,7 +18,9 @@
     width: 350px;
     margin-right: 10px;
   }
-  
+  .cartCard .productQty{
+    margin-right: 10px;
+  }
   .cartCard .productPrice{
     width: 100px;
     margin-right: 10px;
